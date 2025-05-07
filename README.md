@@ -1,2 +1,2 @@
 # quantum-computing
-Algorithms developed during a corse on quantum computation
+Some classic algorithms developed during a corse on quantum computation.
